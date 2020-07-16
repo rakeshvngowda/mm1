@@ -10,4 +10,6 @@ def decor(func):
 def div(x, y):
     print('this is division')
     return x / y 
+    print('this complete the division')
+    
     
